@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PulseCountDown</string>
+    <string name="start_countdown">Start Countdown</string>
+    <string name="_5">5</string>
+</resources>
